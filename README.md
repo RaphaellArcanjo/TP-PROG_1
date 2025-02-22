@@ -42,13 +42,37 @@ O objetivo principal é consolidar os conhecimentos adquiridos na disciplina, ab
     - Adicionar funcionalidade para calcular e exibir as áreas de várias figuras fornecidas pelo usuário em sequência.
 
 ---
+## Módulo 02: Funções, Vetores, Strings e Matrizes
 
+### Objetivos
+- Modularizar o código utilizando funções para calcular áreas e perímetros.
+- Implementar vetores e matrizes para armazenar os dados das figuras geométricas.
+- Introduzir manipulação de strings para gerenciar nomes e descrições das figuras.
+
+### Entregáveis
+1. **Sub-rotinas (Funções):**
+   - Implementar funções específicas para calcular:
+      - **Área e perímetro do círculo**.
+      - **Área e perímetro do retângulo**.
+      - **Área do triângulo** (utilizando a fórmula básica).
+   - Criar uma função para exibir o menu de opções.
+
+2. **Vetores e Strings:**
+   - Usar vetores para armazenar os valores calculados (áreas e perímetros) de até 10 figuras geométricas.
+   - Implementar manipulação de strings para associar nomes (como "Figura 1", "Figura 2") aos cálculos realizados.
+
+3. **Matrizes:**
+   - Implementar uma matriz para armazenar dados das figuras (e.g., dimensões de cada figura, áreas e perímetros calculados).
+   - Exibir os dados de forma tabular.
+
+4. **Validação de Dados:**
+   - Adicionar verificações para garantir que os valores fornecidos pelo usuário sejam válidos (e.g., números positivos).
+
+---
 
 ## Atualizações Futuras
 
 Os próximos módulos introduzirão conceitos avançados, como:
 - Manipulação de ponteiros.
-- Estruturas de dados personalizadas.
+- Structs
 - Alocação dinâmica de memória.
-
----
